@@ -65,7 +65,7 @@ class Index extends React.Component {
 
           <section id="first" className="main special">
             <header className="major">
-              <h2>Magna veroeros</h2>
+              <h2>Стробоскопом тебя ебану</h2>
             </header>
             <ul className="features">
               <li>
